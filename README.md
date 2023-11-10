@@ -2,8 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0. 
 This projects has commenting function that can be applied to any website feature that requires comments.
-Each comment can be replied to. Each comment can be edited or deleted, but on within the first 5 minutes of uploading.
-Once you comment has been replied to by another user, it can no longer be deleted.
+Each comment can be replied to. Each comment can be edited or deleted, but only within the first 5 minutes of uploading.
+Once your comment has been replied to by another user, it can no longer be deleted.
 
 ## Development server
 
