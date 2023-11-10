@@ -1,7 +1,7 @@
 # Comments
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0. 
-This projects has commentinf function that can be applied to any website feature that requires comments.
+This projects has commenting function that can be applied to any website feature that requires comments.
 Each comment can be replied to. Each comment can be edited or deleted, but on within the first 5 minutes of uploading.
 Once you comment has been replied to by another user, it can no longer be deleted.
 
